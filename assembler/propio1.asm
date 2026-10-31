@@ -1,0 +1,14 @@
+@R0
+D=M
+@R1
+D=D&M
+D=!D
+M=D
+@R0
+D=M
+@R1
+D=D|M
+@R3
+D=D&M
+@R2
+M=D

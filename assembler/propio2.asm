@@ -1,0 +1,5 @@
+(ESPERA)
+@KBD
+D=M
+@ESPERA
+D;JNE
